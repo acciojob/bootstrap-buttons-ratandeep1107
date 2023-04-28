@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+#button-1 {
+    background-color: #4e25ff;
+}
+
+#button-2 {
+    border-color: #7a818b;
+    color: #7a818b;
+}
+#button-3 {
+    background-color: #009252;
+    color: white;
+    border-color: #6abf9a;
+}
+#button-4 {
+    background-color: #e8003e;
+    border-color: #fbd8e1;
+    color: #fbd8e1;
+}
+#button-5 {
+    display: block;
+    background-color: #ffcb00;
+    width: 100%;
+    color: black;
+}
+#button-6 {
+    background-color: #49ddf8;
+    color: #394a4e;
+    border: none;
+}
+#button-7 {
+    background-color: #f8f9fa;
+    color: #464545;
+    border: none;
+}
